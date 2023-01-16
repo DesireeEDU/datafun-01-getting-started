@@ -1,0 +1,17 @@
+PS C:\Users\Desiree\OneDrive\Documents\datafun-01-getting-started> & C:/Python39/python.exe c:/Users/Desiree/OneDrive/Documents/datafun-01-getting-started/xtra_p1.py
+
+Hello, I'm DesBot, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+Please select a wolf, eagle, or snake as your animal: wolf
+
+You said wolf.
+I said wolf.
+
+We tied!
+PS C:\Users\Desiree\OneDrive\Documents\datafun-01-getting-started> 
