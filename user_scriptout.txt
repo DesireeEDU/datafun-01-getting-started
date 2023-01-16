@@ -1,1 +1,15 @@
 # Paste the output from a sample run here.
+PS C:\Users\Desiree\OneDrive\Documents\datafun-01-getting-started> & C:/Python39/python.exe c:/Users/Desiree/OneDrive/Documents/datafun-01-getting-started/user_script.py
+Enter the number of dogs at the daycare on Monday: 15
+We need more doggy friends!
+Enter the number of dogs at the daycare on Tuesday: 25
+We had a great day with our doggy friends!
+Enter the number of dogs at the daycare on Wednesday: 30
+Today we had a doggy party!
+
+The sum of all the dogs at the daycare from Monday through Wednesday is 70.
+The average number of dogs at the daycare from Monday through Wednesday is 23.33.
+The product of the dogs at the daycare from Monday through Wednesday is 11250.
+The smallest number of dogs at the daycare from Monday through Wednesday is 15.
+The largest number of dogs at the daycare from Monday through Wednesday is 30.
+The  number of dogs at the daycare from Monday through Wednesday range from 15 to 30. 
